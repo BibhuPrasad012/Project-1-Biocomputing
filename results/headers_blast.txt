@@ -1,0 +1,5 @@
+>XP_063579644.1 pro-epidermal growth factor isoform X8 [Pongo abelii]
+>NP_001171601.1 pro-epidermal growth factor isoform 2 precursor [Homo sapiens]
+>XP_028704505.1 pro-epidermal growth factor isoform X9 [Macaca mulatta]
+>XP_050646952.1 pro-epidermal growth factor isoform X11 [Macaca thibetana thibetana]
+>KAL4679405.1 hypothetical protein H8959_009055 [Pygathrix nigripes]

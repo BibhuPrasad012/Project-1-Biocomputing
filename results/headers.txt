@@ -1,0 +1,5 @@
+sequence_chimpanzee.fasta:>NC_072401.2:111369488-111470783 Pan troglodytes isolate AG18354 chromosome 3, NHGRI_mPanTro3-v2.0_pri, whole genome shotgun sequence
+sequence_fruitfly.fasta:>NT_033778.4:21522420-21559977 Drosophila melanogaster chromosome 2R
+sequence_human.fasta:>NC_000004.12:109912883-110013766 Homo sapiens chromosome 4, GRCh38.p14 Primary Assembly
+sequence_mouse.fasta:>NC_000069.7:c129548971-129471223 Mus musculus strain C57BL/6J chromosome 3, GRCm39
+sequence_rat.fasta:>NC_086020.1:c220976331-220893660 Rattus norvegicus strain BN/NHsdMcwi chromosome 2, GRCr8, whole genome shotgun sequence
